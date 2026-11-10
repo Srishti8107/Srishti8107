@@ -1,37 +1,66 @@
-# Building in code, dreaming in stories. ✨
+# Srishti
 
-Hi there! I'm an engineering student, curious builder, and lifelong learner.
+*Building in code, dreaming in stories.*
 
-I enjoy exploring ideas, experimenting with technology, and turning interesting problems into things that actually work.
+Engineering student · Developer in progress · Curious by nature
 
-Sometimes you'll find me debugging code, sometimes building something ambitious, and sometimes completely lost in a novel.
+<img src="./assets/profile_loop.gif" width="100%" alt="A little story about me — speaking, coding and dreaming." />
 
-### 🌱 Currently exploring
-- Software development and problem-solving
-- Artificial Intelligence and emerging technologies
-- Creative technology and interactive experiences
-- Building projects that solve real-world problems
+<br/>
 
-### 🛠️ Things I've been building
+### 01 / A little about me
 
-**Kalaverse** — An art-focused platform exploring creative experiences through augmented reality.
+I'm an engineering student interested in the things that happen when technology meets creativity.
 
-**More projects coming soon...**
+I like exploring unfamiliar ideas, understanding how things work and building things that make those ideas tangible. I'm particularly drawn to projects that bring together different fields rather than staying within one box.
 
-### 📚 Beyond the terminal
+Still learning, still experimenting, and nowhere near running out of things to be curious about.
 
-When I'm not coding, I'm probably:
-- Reading novels and getting emotionally attached to fictional characters.
-- Exploring new places.
-- Looking for good food.
-- Falling down unexpected rabbit holes of curiosity.
+<br/>
 
-### 💌 Let's connect
+### 02 / Areas of interest
 
-I'm always interested in exchanging ideas, collaborating on interesting projects, and meeting people who love learning and building.
+| | |
+|:---|:---|
+| Software | Development & problem solving |
+| Emerging tech | Artificial intelligence |
+| Creative technology | Augmented reality & interactive experiences |
+| Beyond code | Design, ideas & experimentation |
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Email](YOUR_EMAIL)
+<br/>
+
+### 03 / Selected work
+
+**Kalaverse**
+
+An exploration of art and technology, bringing creative experiences closer through augmented reality.
+
+*More projects and experiments are taking shape.*
+
+<br/>
+
+### 04 / Currently exploring
+
+`Python` · `C` · `Java`
+
+Learning through coursework, independent experiments and projects. Interested in getting better at building complete, useful applications rather than just collecting technologies.
+
+<br/>
+
+### 05 / Outside the screen
+
+Novels with stories that stay long after the last page. Places I've never visited. Food worth going out of the way for. Conversations that lead somewhere unexpected.
+
+There's quite a lot to explore beyond a computer screen.
+
+<br/>
+
+### 06 / Find me elsewhere
+
+[LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL) · [GitHub](https://github.com/YOUR_USERNAME)
+
+<br/>
 
 ---
 
-*Building in code, dreaming in stories.* 🌙
+<sub>Always learning. Occasionally overthinking. Consistently building.</sub>
